@@ -1,0 +1,8 @@
+{
+  "best_model": "svm_rbf",
+  "accuracy": 0.9737,
+  "precision": 0.9756,
+  "recall": 0.9524,
+  "f1": 0.9639,
+  "roc_auc": 0.9947
+}
