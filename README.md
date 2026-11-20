@@ -1,6 +1,6 @@
 # Breast Cancer Diagnosis – End-to-End ML Pipeline
 
-![CI](https://github.com/YOUR_USERNAME/cancer-diagnosis-ml/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/DENZILdavis/cancer-diagnosis-ml/actions/workflows/ci.yml/badge.svg)
 
 A reproducible machine-learning project that classifies breast tumours as **benign** or **malignant** from cell-nucleus measurements (Wisconsin Diagnostic Breast Cancer dataset, 569 samples, 30 features).
 
@@ -34,7 +34,7 @@ Best model (selected by 5-fold CV F1): **SVM (RBF) with probability calibration*
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cancer-diagnosis-ml.git
+git clone https://github.com/DENZILdavis/cancer-diagnosis-ml.git
 cd cancer-diagnosis-ml
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
